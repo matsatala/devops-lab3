@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Mateusz
+Nazwisko: Satala
+Ulubiona technologia: Java
